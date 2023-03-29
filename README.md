@@ -11,3 +11,4 @@ To connect the components the layout for a custom pcb can be downloaded.
 ![image](https://user-images.githubusercontent.com/103884925/228441386-3b8d796d-1690-4924-86cd-81055dc31a34.png)
 
 The stl files for 3D Printing the case can be downloaded here:
+https://www.thingiverse.com/thing:5938550
