@@ -1,5 +1,7 @@
 # UV-Measuring-Device
 Device to Measure UV hazard shows UV-Index and remaining time in sun based on skin-type on touch display
+![image](https://user-images.githubusercontent.com/103884925/228444807-f9ca4bd0-4321-4c56-98fb-6b6f464c5bc1.png)
+
 The Device uses following components (from left to right)
 1. UV Sensor
 2. Microcontroller ESP8266
